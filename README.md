@@ -45,6 +45,8 @@ Installation / Usage
 https://github.com/Vaishnaviii002/Cursor
 
 2.Project Screenshot
+<img width="1899" height="858" alt="image" src="https://github.com/user-attachments/assets/1fe8d377-722d-4390-9be6-35a0a47b5bcc" />
+
 
 3.Live Demo
 Live Website: https://mintlify-delta.vercel.app/
