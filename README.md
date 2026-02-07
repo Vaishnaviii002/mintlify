@@ -28,7 +28,23 @@ The following UI sections were recreated:
 - Light-themed documentation interface
 
 
+Technologies Used
+
+- HTML5
+- CSS3 (Flexbox & Grid)
+
 
 Font Used
 
 font-family:'Inter',sans-serif;
+
+
+Installation / Usage
+
+1. Clone the repository:
+https://github.com/Vaishnaviii002/Cursor
+
+2.Project Screenshot
+
+3.Live Demo
+Live Website: https://mintlify-delta.vercel.app/
